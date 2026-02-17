@@ -61,6 +61,9 @@ Mr. Tharoor's face was successfully classified into one of the clusters based on
 ### Target Classification
 ![Target Classification](target_classification.png)
 
+### Target plotted along with the Clusters
+![Target Plot](Cluster_with_ThiruMP.png)
+
 ## Conclusions
 
 K-Means clustering successfully grouped faces based on Hue and Saturation features. The algorithm effectively separated faces into two clusters with clear boundaries in the feature space.
